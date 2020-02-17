@@ -1,3 +1,7 @@
+<head>
+    <meta charset="UTF-8">
+    <title>李俊的个人主页</title>
+</head>
 <table border="0">
   <tr>
     <td width="75%">
