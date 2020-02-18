@@ -1,6 +1,25 @@
 
   
-<table border="0">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>李俊的个人主页</title>
+    <style>
+    body {
+        text-align: center;
+    }
+    a {
+        border: 100px dashed red;
+        width: 300px;
+        height: 300px;
+        background-color: yellow;
+        text-decoration: none;
+    }
+    </style>
+</head>
+    <table border="0">
   <tr>
     <td width="75%">
       <h1>李俊</h1>
@@ -19,3 +38,10 @@
 <body>
   <h1>爱好</h1>
   </body>
+
+<body>
+    <h1>个人信息</h1>
+   
+    
+</body>
+</html>
