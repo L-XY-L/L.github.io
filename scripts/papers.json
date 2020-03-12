@@ -10,8 +10,8 @@
 "title":"Delphi: A Cryptographic Inference Service for Neural Networks"
 },
   {
-  <a href="/2020/276">2020/276</a>  ( <a href="/2020/276.pdf">PDF</a>  )
-<dd><b>CryptoPIM:  In-memory  Acceleration  for  Lattice-based  Cryptographic  Hardware</b>
-<dd><em>Hamid  Nejatollahi   and  Saransh  Gupta   and  Mohsen  Imani   and  Tajana  Simunic  Rosing   and  Rosario  Cammarota   and  Nikil  Dutt</em>
+  "id":"2020/276", 
+"title":"CryptoPIM:  In-memory  Acceleration  for  Lattice-based  Cryptographic  Hardware",
+"authrs":"Hamid  Nejatollahi   and  Saransh  Gupta   and  Mohsen  Imani   and  Tajana  Simunic  Rosing   and  Rosario  Cammarota   and  Nikil  Dutt"
   }
 ]
