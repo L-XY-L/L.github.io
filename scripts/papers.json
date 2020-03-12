@@ -1,4 +1,4 @@
-
+[
 {
 "id":"2020/276",                 
 "title":"CryptoPIM:  In-memory  Acceleration  for  Lattice-based  Cryptographic  Hardware",
@@ -2149,4 +2149,5 @@
 {
 "id":"2001/069",                  
 "title":"On  the (Im)possibility  of  Obfuscating  Programs",
-"authors":"Boaz  Barak   and  Oded  Goldreich   and  Russell  Impagliazzo   and  Steven  Rudich   and  Amit  Sahai   and  Salil  Vadhan   and  Ke  Yang"},
+"authors":"Boaz  Barak   and  Oded  Goldreich   and  Russell  Impagliazzo   and  Steven  Rudich   and  Amit  Sahai   and  Salil  Vadhan   and  Ke  Yang"}
+  ]
