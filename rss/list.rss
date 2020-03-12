@@ -2,45 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>List of Secure Computation Papers</title>
-    <link>https://l-max-maker.github.io/L.github.io/
-</link>
+    <link>https://guutboy.github.io</link>
     <description>A list of papers on IACR eprint on the topic of secure computation.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
     <lastBuildDate>Wed, 29 Jan 2020 21:11:14 +0000</lastBuildDate>
- <title>Cryptology ePrint Archive: Search Results</title>
-<link rev="made" href="mailto:eprint-admin%40iacr.org" />
-<meta content="initial-scale=1, width=device-width" name="viewport" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-</head>
-<body bgcolor="white">
-<h1>Cryptology ePrint Archive: Search Results</h1><DL>
-<dt>
-<a href="/2020/276">2020/276</a>  ( <a href="/2020/276.pdf">PDF</a>  )
-<dd><b>CryptoPIM:  In-memory  Acceleration  for  Lattice-based  Cryptographic  Hardware</b>
-<dd><em>Hamid  Nejatollahi   and  Saransh  Gupta   and  Mohsen  Imani   and  Tajana  Simunic  Rosing   and  Rosario  Cammarota   and  Nikil  Dutt</em>
-
-<dt>
-<a href="/2020/272">2020/272</a>  ( <a href="/2020/272.pdf">PDF</a>  )
-<dd><b>Privacy-Preserving  Fast   and  Exact  Linear  Equations  Solver  with  Fully  Homomorphic  Encryption</b>
-<dd><em>Keita  Arimitsu   and  Kazuki  Otsuka</em>
-
-<dt>
-<a href="/2020/264">2020/264</a>  ( <a href="/2020/264.pdf">PDF</a>  )
-<dd><b>Plaintext  Recovery  Attacks  against  Linearly  Decryptable  Fully  Homomorphic  Encryption  Schemes</b>
-<dd><em>Nicholas  Mainardi   and  Alessandro  Barenghi   and  Gerardo  Pelosi</em>
-
-<dt>
-<a href="/2020/222">2020/222</a>  ( <a href="/2020/222.pdf">PDF</a>  )
-<dd><b>Improving  Speed   and  Security  in  Updatable  Encryption  Schemes</b>
-<dd><em>Dan  Boneh   and  Saba  Eskandarian   and  Sam  Kim   and  Maurice  Shih</em>
-
-<dt>
-<a href="/2020/180">2020/180</a>  ( <a href="/2020/180.pdf">PDF</a>  )
-<dd><b>Multikey  FHE  in  the  Plain  Model</b>
-<dd><em>Prabhanjan  Ananth   and  Abhishek  Jain   and  ZhengZhong  Jin   and  Giulio  Malavolta</em>
-
-    
+  
      </channel>
 </rss>
