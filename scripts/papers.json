@@ -1,8 +1,67 @@
-
 [
 {
 "authors":"Weikeng Chen and Raluca Ada Popa",
 "id":"2020/083",
 "title":"Metal: A Metadata-Hiding File-Sharing System"
 },
+{
+"authors":"Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa",
+"id":"2020/050",
+"title":"Delphi: A Cryptographic Inference Service for Neural Networks"
+},
+{
+"authors":"Arpita Patra and Ajith Suresh",
+"id":"2020/042",
+"title":"BLAZE: Blazing Fast Privacy-Preserving Machine Learning"
+},
+{
+"authors":"Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich",
+"id":"2020/029",
+"title":"Differentially-Private Multi-Party Sketching for Large-Scale Statistics"
+},
+{
+"authors":"Hao Chen and Wei Dai and Miran Kim and Yongsoo Song",
+"id":"2020/015",
+"title":"Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts"
+},
+{
+"authors":"Joon-Woo Lee and Young-Sik Kim and Jong-Seon No",
+"id":"2019/1497",
+"title":"Analysis of Modified Shell Sort for Fully Homomorphic Encryption"
+},
+{
+"authors":"Asra Ali and Tancr\u00e8de Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo",
+"id":"2019/1483",
+"title":"Communication--Computation Trade-offs in PIR"
+},
+{
+"authors":"Sigurd Eskeland",
+"id":"2019/1462",
+"title":"Privacy-preserving greater-than integer comparison without binary decomposition"
+},
+{
+"authors":"David Butler and David Aspinall and Adria Gascon",
+"id":"2019/1449",
+"title":"Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL"
+},
+{
+"authors":"Claude Carlet and Pierrick M\u00e9aux",
+"id":"2019/1446",
+"title":"Boolean functions for homomorphic-friendly stream ciphers"
+},
+{
+"authors":"Vincent HERBERT",
+"id":"2019/1402",
+"title":"Automatize parameter tuning in Ring-Learning-With-Errors-based leveled homomorphic cryptosystem implementations"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof",
+"id":"2019/1390",
+"title":"Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs"
+},
+{
+"authors":"Megha Byali and Harsh Chaudhari and Arpita Patra and Ajith Suresh",
+"id":"2019/1365",
+"title":"FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning"
+}
   ]
